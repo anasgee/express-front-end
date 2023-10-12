@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+.navbar{
+    background-color: black;
+    color: white;
+}
+li{
+    margin: 1rem;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
